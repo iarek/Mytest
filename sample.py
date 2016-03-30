@@ -1,3 +1,6 @@
+
 import system
 
-print("And DUpa")
+if __name__ == '__main__':
+    print("testing ...")
+    pass
